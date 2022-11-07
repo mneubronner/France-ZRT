@@ -1,6 +1,5 @@
 *ZRT für Dronenflüge 
-*Bereich Nancy
-*Aktivität über Ochey auf 127.250 MHz
+**Aktivität über Ochey auf 127.250 MHz
 ****************************************
 AC R
 AN ZRT NANCY Drone Ochey 127.250
@@ -14,3 +13,14 @@ DP 48:52:52 N 006:13:56 E
 DP 48:37:15 N 005:27:24 E
 DP 48:34:46 N 005:23:50 E
 DP 48:41:43 N 005:23:50 E
+
+AC R
+AN ZRT GROSTENQUIN Drone Ochey 127.250
+AL FL125
+AH FL135
+
+DP 48:57:55 N 006:14:08 E
+DP 48:56:49 N 006:58:58 E
+DP 48:51:25 N 007:08:52 E
+DP 48:52:52 N 006:13:56 E
+DP 48:57:55 N 006:14:08 E
