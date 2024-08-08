@@ -1,10 +1,10 @@
 *ZRT for Wingsuit Jumping in Gap
 ****************************************
 AC R
-AN ZRT Le Luc 
+AN Gap Wingsuit 1 (Restricted)
 AF 119.100
 AL 8500 ft
 AH FL115
 
-V X=43:23:05 N 006:23:13 E
-DC 6
+V X=44:27:20 N 006:02:09 E
+DB 44:24:20 N 006:02:09 E, 44:30:20 N 006:02:09 E
